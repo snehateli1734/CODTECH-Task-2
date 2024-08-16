@@ -14,7 +14,8 @@ grade, and display the overall grade along with any additional information (such
 
 Output:
 
-![image](https://github.com/user-attachments/assets/55e3110a-0e94-4d95-b4d1-0bb9fa46d2a8)
+![image](https://github.com/user-attachments/assets/3d787184-e64b-43d3-8e9b-136453810012)
+
 
 
 Objective:
